@@ -1,4 +1,3 @@
-# -
 A rookie
 # Author :xxx
 print("hello world")
