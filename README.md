@@ -1,6 +1,6 @@
 # -
 A rookie
-
+# Author :xxx
 print("hello world")
 
 # 定义变量及赋值
